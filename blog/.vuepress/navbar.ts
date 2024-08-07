@@ -4,22 +4,36 @@ export default navbar([
   "/",
   "/demo/",
   {
-    text: "博文",
+    text: "AI",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
       {
-        text: "苹果",
+        text: "AI 助手",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "/",
         children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
+          { text: "智谱清言", icon: "pen-to-square", link: "https://chatglm.cn/main/alltoolsdetail" },
+          { text: "Kimi", icon: "pen-to-square", link: "https://kimi.moonshot.cn/" },
+          { text: "通义千问", icon: "pen-to-square", link: "https://tongyi.aliyun.com/qianwen/" },
         ],
       },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
+      {
+        text: "AI 资讯",
+        icon: "pen-to-square",
+        prefix: "/",
+        children: [
+          { text: "AGI 知识库", icon: "pen-to-square", link: "https://km3dl0ffdl.feishu.cn/wiki/UvJPwhfkiitMzhkhEfycUnS9nAm" },
+          { text: "AI 副业指南", icon: "pen-to-square", link: "https://17yongai.com/" },
+          { text: "AI 工具集", icon: "pen-to-square", link: "https://ai-bot.cn/ai-app-store/" },
+        ],
+      },
     ],
+  },
+  {
+    text: "It’s Only a Paper Moon",
+    icon: "book",
+    link: "/posts/media/paper-moon",
   },
   {
     text: "主题文档",
