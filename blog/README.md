@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://draveller.oss-cn-beijing.aliyuncs.com/image/book-256.svg
 heroText: ding的个人博客
 heroFullScreen: true
 tagline: 愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者的话。
