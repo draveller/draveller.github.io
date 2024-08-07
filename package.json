@@ -5,10 +5,10 @@
   "license": "Apache 2.0",
   "type": "module",
   "scripts": {
-    "docs:dev": "vuepress-vite dev blog",
-    "docs:build": "vuepress-vite build blog",
-    "docs:clean-dev": "vuepress-vite dev blog --clean-cache",
-    "docs:update-package": "pnpm dlx vp-update"
+    "blog:dev": "vuepress-vite dev blog",
+    "blog:build": "vuepress-vite build blog",
+    "blog:clean-dev": "vuepress-vite dev blog --clean-cache",
+    "blog:update-package": "pnpm dlx vp-update"
   },
   "dependencies": {
     "@vuepress/client": "2.0.0-rc.14",
