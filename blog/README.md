@@ -4,45 +4,29 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: ding的个人博客
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者的话。
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
-
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: 项目地址
+    desc: 基于 VuePress 构建的博客
+    link: https://github.com/draveller/draveller.github.io
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    name: VuePress
+    desc: VuePress地址
+    link: https://vuepress.vuejs.org/
 
   - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+    name: GitHub Actions
+    desc: GitHub Actions 文档
+    link: https://docs.github.com/zh/actions/using-workflows
 
   - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
+    name: dpter
+    desc: 没什么好介绍的
+    link: https://github.com/dpter
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
-
-footer: 自定义你的页脚文字
+footer: 发布于 2024-08-07
 ---
-
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
