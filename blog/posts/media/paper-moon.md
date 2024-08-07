@@ -2,10 +2,8 @@
 title: Paper Moon
 date: 2024-08-07
 icon: "music"
-cover: "https://www.dmoe.cc/random.php"
 ---
 
-## It’s Only a Paper Moon
 
 <video width="100%" controls="true" volume="0.6">
   <source src="https://draveller.oss-cn-beijing.aliyuncs.com/video/It%27s%20Only%20A%20Paper%20Moon.mp4" type="video/mp4">
