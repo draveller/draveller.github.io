@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "ES2022"
+  },
+  "include": [
+    "blog/.vuepress/**/*.ts",
+    "blog/.vuepress/**/*.vue",
+    "blog/.vuepress/**/*.ts",
+    "blog/.vuepress/**/*.vue"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
