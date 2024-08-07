@@ -7,12 +7,12 @@ cover: "https://www.dmoe.cc/random.php"
 
 ## Somethin' Stupid
 
-<video width="100%" controls="true">
+<video width="100%" controls="true" volume="0.6">
   <source src="https://draveller.oss-cn-beijing.aliyuncs.com/video/Robbie%20Williams%20-%20Somethin%27%20Stupid.mp4" type="video/mp4">
 </video>
 
 
-## 歌词
+---
 
 
 ```text

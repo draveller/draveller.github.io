@@ -11,13 +11,13 @@ cover: /assets/images/cover3.jpg
 2. 但是现在还没想好怎么写
 3. 就粘贴一个微信和QQ的二维码吧
 
-
-## 添加我的微信
-
-<img src="https://basic-0807.oss-cn-beijing.aliyuncs.com/me/wechat-qrcode.jpg" alt="微信二维码" style="width:50%;">
-
-
-## 添加我的QQ
-
-<img src="https://basic-0807.oss-cn-beijing.aliyuncs.com/me/qq-qrcode.jpg" alt="QQ二维码" style="width:50%;">
-
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+    <p>添加我的微信</p>
+    <img src="https://basic-0807.oss-cn-beijing.aliyuncs.com/me/wechat-qrcode.jpg" alt="微信二维码" style="width: 100%;">
+  </div>
+  <div style="width: 48%;">
+    <p>添加我的QQ</p>
+    <img src="https://basic-0807.oss-cn-beijing.aliyuncs.com/me/qq-qrcode.jpg" alt="QQ二维码" style="width: 100%;">
+  </div>
+</div>
