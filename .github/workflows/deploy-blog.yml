@@ -1,4 +1,4 @@
-name: blog
+name: 自动部署
 
 on:
   # 每当 push 到 master 分支时触发部署
