@@ -2,7 +2,7 @@
 title: Paper Moon
 date: 2024-08-07
 icon: "music"
-cover: "https://example.com/cover-image.jpg"  # 假设这是封面图片的链接
+cover: "https://www.dmoe.cc/random.php"
 ---
 
 ## It’s Only a Paper Moon
@@ -16,7 +16,7 @@ cover: "https://example.com/cover-image.jpg"  # 假设这是封面图片的链�
 
 
 ```text
-<<It's Only A Paper Moon>> - Paul McCartney
+It's Only A Paper Moon - Paul McCartney
 
 
 Say' its only a paper moon

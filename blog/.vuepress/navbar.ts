@@ -32,8 +32,13 @@ export default navbar([
   },
   {
     text: "It’s Only a Paper Moon",
-    icon: "book",
+    icon: "music",
     link: "/posts/media/paper-moon",
+  },
+  {
+    text: "Somethin' Stupid",
+    icon: "music",
+    link: "/posts/media/something-stupid",
   },
   {
     text: "主题文档",
