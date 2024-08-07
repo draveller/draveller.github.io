@@ -28,5 +28,5 @@ projects:
     desc: 没什么好介绍的
     link: https://github.com/dpter
 
-footer: 发布于 2024-08-07
+footer: 本站发布于 2024-08-07
 ---
